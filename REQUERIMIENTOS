@@ -7,5 +7,13 @@ De la siguiente manera, usando conda install python=3.12.9 para el espacio de tr
 A pesar que el archivo zip contiene todos los recursos este es el link del repositorio: https://github.com/AlexUIDE/CLASES/tree/CLASE3
 
 
+conda env create -f enviroment.yml
+Ingresar a el entorno CLASE3 
+exec bash
+conda activate CLASE3
+
+pip install -r requirements.txt
+
+
 NOTA: Se realizo en modo oscuro.
 
